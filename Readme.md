@@ -1,3 +1,12 @@
+![alt text](<Pivot Table 1.png>)
+
+![alt text](<Pivot Table 2.png>)
+
+![alt text](<Pivot Table 3.png>)
+
+![alt text](<Pivot Table 4.png>)
+
+
 # FINDINGS
 The medical condition with the highest revenue is diabetes, with a total sum of $238,539,725.49
 Patients within the age range 53-62 visited the hospital most, slightly above age range 33-42. 
@@ -9,6 +18,11 @@ Female patients were admitted on emergency more than the male counterparts.
 Overall, gender distribution of patients was competitve, although the male patients superceded the female with only 48.
 A- is the most common blood group of the patients.
 Arthritis is the most common medical condition among the patients diagnosed.
+
+![alt text](<Pivot Charts 1.png>)
+
+![alt text](<Pivot Charts 2.png>)
+
 
 # OBSERVATIONS
 Revenue distribution across medical conditions is relatively close.
@@ -34,4 +48,5 @@ Strengthen partnerships with major insurance providers.
 Improve chronic disease monitoring systems.
 Promote early diagnosis and wellness campaigns.
 Maintain adequate stock for highly prescribed medications.
-Improve planning for elective and urgent admissions.# IOTB-TECH-Hospital-Analysis
+Improve planning for elective and urgent admissions.
+
